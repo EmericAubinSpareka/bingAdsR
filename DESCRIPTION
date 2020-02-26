@@ -13,3 +13,4 @@ License: MIT + file LICENSE
 LazyData: true
 URL: https://github.com/deepeshgoeliitk/bingAdsR, https://bingads.microsoft.com, https://docs.microsoft.com/en-us/bingads/reporting-service/reporting-service-reference
 BugReports: https://github.com/deepeshgoeliitk/bingAdsR/issues
+StagedInstall: no
